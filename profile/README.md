@@ -4,6 +4,8 @@ Hello, my name is Otávio Santana. I'm Software Engineer, Architect, and Open So
 
 I can help you get the ultimate sophistication software using the best practices on open source. Thus you can increase your productivity and achieve success in your career.
 
+### Why the Ultimate sophistication?
+
 
 > Simplicity is the ultimate sophistication.
 
