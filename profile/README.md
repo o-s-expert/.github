@@ -13,6 +13,6 @@ Leonardo da Vinci.
 
 ## Social Media
 
-* Twitter
-* Linkedin
-* Youtube
+* [Twitter](https://twitter.com/otaviojava)
+* [Linkedin](https://www.linkedin.com/in/otaviojava/)
+* [Youtube](https://www.youtube.com/@otaviojava)
