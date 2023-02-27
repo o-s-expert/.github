@@ -10,3 +10,9 @@ I can help you get the ultimate sophistication software using the best practices
 > Simplicity is the ultimate sophistication.
 
 Leonardo da Vinci.
+
+## Social Media
+
+* Twitter
+* Linkedin
+* Youtube
