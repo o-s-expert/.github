@@ -1,8 +1,9 @@
-## Ultimate sophistication Software Engineer
+## The Ultimate Engineer
 
 Hello, my name is Otávio Santana. I'm Software Engineer, Architect, and Open Source Committer on global and impactful projects.
 
-I can help you get the ultimate sophistication software using the best practices on open source. Thus you can increase your productivity and achieve success in your career.
+I can help software engineers become more effective and productive and reach the ultimate stage of sophistication using the best practices of the open-source world. So they will get top-level tech positions in the most successful companies in the world as an ultimate engineer.
+
 
 ### Why the Ultimate sophistication?
 
